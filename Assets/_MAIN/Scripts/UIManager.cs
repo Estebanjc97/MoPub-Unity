@@ -14,7 +14,7 @@ namespace MoPubApplication
         [SerializeField, FoldoutGroup("UI elements")]
         private RectTransform[] layouts_views;
         [SerializeField, FoldoutGroup("UI elements")]
-        private TextMeshProUGUI events_debugger;
+        private TextMeshProUGUI events_debugger, rewardeds_counter;
 
         #endregion
 
@@ -36,6 +36,16 @@ namespace MoPubApplication
             {
                 events_debugger.text = message;
                 events_debugger.color = text_color;
+            }
+
+            Debug.Log(string.Format("New Event >> {0} >> with color flag >> {1}", message, text_color.ToString())); ;
+        }
+
+        public void SetERewardsCounter(int counter)
+        {
+            if (rewardeds_counter != null)
+            {
+                rewardeds_counter.text = string.Format("Rewards: {0}", counter);
             }
         }
 
