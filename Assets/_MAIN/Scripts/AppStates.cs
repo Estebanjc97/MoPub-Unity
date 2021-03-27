@@ -4,6 +4,7 @@ namespace MoPubApplication
     {
         InitializeMoPub = 0,
         LoadAds = 1,
-        ShowAds = 2
+        ShowInterstitial = 2,
+        ShowRewardedVideo = 3
     }
 }

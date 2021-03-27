@@ -52,7 +52,7 @@ namespace MoPubApplication
 
         private void ShareCurrentState()
         {
-            switch (currentAppSatate)
+            switch (currentAppSatate)   
             {
                 case AppStates.InitializeMoPub:
                     OnAppStateChange?.Invoke(0);
@@ -60,8 +60,11 @@ namespace MoPubApplication
                 case AppStates.LoadAds:
                     OnAppStateChange?.Invoke(1);
                     break;
-                case AppStates.ShowAds:
+                case AppStates.ShowInterstitial:
                     OnAppStateChange?.Invoke(2);
+                    break;
+                case AppStates.ShowRewardedVideo:
+                    OnAppStateChange?.Invoke(3);
                     break;
                 default:
                     break;

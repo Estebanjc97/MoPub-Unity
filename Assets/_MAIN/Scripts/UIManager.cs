@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Sirenix.OdinInspector;
 using UnityEngine.UI;
+using TMPro;
 
 namespace MoPubApplication
 {
@@ -12,15 +13,13 @@ namespace MoPubApplication
 
         [SerializeField, FoldoutGroup("UI elements")]
         private RectTransform[] layouts_views;
+        [SerializeField, FoldoutGroup("UI elements")]
+        private TextMeshProUGUI events_debugger;
 
         #endregion
 
         #region Unity Functions
 
-        private void Start()
-        {
-            Setup();
-        }
 
         #endregion
 
@@ -31,9 +30,22 @@ namespace MoPubApplication
             LoadLayout(stateId);
         }
 
-        private void Setup()
+        public void SetEventDebug(string message, Color text_color)
         {
-            HideAllLayouts();
+            if (events_debugger != null)
+            {
+                events_debugger.text = message;
+                events_debugger.color = text_color;
+            }
+        }
+
+        public void ReturnToHome()
+        {
+            GameManager.Instance.ChangeState(0);
+        }
+        public void ExitApp()
+        {
+            Application.Quit();
         }
 
         private void LoadLayout(int index)
