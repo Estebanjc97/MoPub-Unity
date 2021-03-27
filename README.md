@@ -1,6 +1,6 @@
 # MoPub-Unity
 
-This project is developed by Esteban Jiménez Calderón to solve the first step in the Unity Adds Support Evaluation.
+This project is developed by Esteban Jiménez Calderón to solve the first step in the Unity Ads Support Evaluation.
 
 ## Installations
 
