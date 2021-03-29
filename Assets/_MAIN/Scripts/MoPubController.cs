@@ -148,11 +148,14 @@ namespace MoPubApplication
 
         private void RecibeReward(string adUnitId, string key, float value)
         {
-            rewards++;
-            Debug.LogWarning(string.Format("{0}  --  {1}  --  {2}", adUnitId, key, value)); 
-            
-            if(uiManager)
-                uiManager.SetERewardsCounter(rewards);
+            if (adUnitId == rewardedUnitId)
+            {
+                rewards++;
+                if (uiManager)
+                    uiManager.SetERewardsCounter(rewards);
+                MoPubManager.OnRewardedVideoReceivedRewardEvent -= RecibeReward;
+            }
+            Debug.Log(string.Format("{0}  --  {1}  --  {2}", adUnitId, key, value)); 
         }
 
         private void RewardedVideoFailed(string adUnitId, string error)
