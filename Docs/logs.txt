@@ -1,0 +1,322 @@
+03-27 16:04:54.373 31216 31216 D ActivityThread: add activity client record, r= ActivityRecord{a66b730 token=android.os.BinderProxy@3bccddf {com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}} token= android.os.BinderProxy@3bccddf
+03-27 16:04:54.404  1905  8277 I HidataAppQoeP: foregroundUidAdd uid: 10374 name: com.NoxGames.MobPubUnity activity state: true
+03-27 16:04:54.413  1905  2190 I UidCloseNrStateMachine: enter uidStateChanged, ForeGrountApp = com.NoxGames.MobPubUnity, mIsCallOn = false, mIsUsbPlugged = true
+03-27 16:05:36.453 31216 31216 D ActivityThread: add activity client record, r= ActivityRecord{569d30 token=android.os.BinderProxy@adbb08a {com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}} token= android.os.BinderProxy@adbb08a
+03-27 16:06:05.852 31216 31216 D ActivityThread: Remove activity client record, r= ActivityRecord{569d30 token=android.os.BinderProxy@adbb08a {com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}} token= android.os.BinderProxy@adbb08a
+03-27 16:06:09.825 31216 31216 D ActivityThread: add activity client record, r= ActivityRecord{f0253c5 token=android.os.BinderProxy@81ac53e {com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}} token= android.os.BinderProxy@81ac53e
+03-27 16:06:59.470 31216 31216 D ActivityThread: Remove activity client record, r= ActivityRecord{f0253c5 token=android.os.BinderProxy@81ac53e {com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}} token= android.os.BinderProxy@81ac53e
+03-27 16:07:03.447  1905  8277 I HidataAppQoeP: foregroundUidRemove uid: 10374 name: com.NoxGames.MobPubUnity
+03-27 16:08:49.443 31610 31610 D ActivityThread: add activity client record, r= ActivityRecord{a66b730 token=android.os.BinderProxy@3bccddf {com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}} token= android.os.BinderProxy@3bccddf
+03-27 16:08:49.457  1905  8277 I HidataAppQoeP: foregroundUidAdd uid: 10374 name: com.NoxGames.MobPubUnity activity state: true
+03-27 16:08:49.465  1905  2190 I UidCloseNrStateMachine: enter uidStateChanged, ForeGrountApp = com.NoxGames.MobPubUnity, mIsCallOn = false, mIsUsbPlugged = true
+03-27 16:09:11.689 31610 31610 D ActivityThread: add activity client record, r= ActivityRecord{e20f9ee token=android.os.BinderProxy@c4ed346 {com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}} token= android.os.BinderProxy@c4ed346
+03-27 16:10:28.175 31610 31610 D ActivityThread: Remove activity client record, r= ActivityRecord{e20f9ee token=android.os.BinderProxy@c4ed346 {com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}} token= android.os.BinderProxy@c4ed346
+03-27 16:10:29.878  1905  8277 I HidataAppQoeP: foregroundUidRemove uid: 10374 name: com.NoxGames.MobPubUnity
+03-27 16:14:11.758  1905  1905 I HwKeystoreServiceImpl: ACTION_PACKAGE_REMOVED userId:0 appId:10374 packageName:com.NoxGames.MobPubUnity removeAll:true
+03-27 16:15:22.290  1905  1905 I HwCoreAppHelperService: LocalReceiver receives:android.intent.action.PACKAGE_RESTARTED,pkg:com.NoxGames.MobPubUnity,uid:10375
+03-27 16:15:22.838  1346  1346 D ActivityThread: add activity client record, r= ActivityRecord{e21d0e2 token=android.os.BinderProxy@3bccddf {com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}} token= android.os.BinderProxy@3bccddf
+03-27 16:15:22.866  1905  8277 I HidataAppQoeP: foregroundUidAdd uid: 10375 name: com.NoxGames.MobPubUnity activity state: true
+03-27 16:15:22.871  1905  2190 I UidCloseNrStateMachine: enter uidStateChanged, ForeGrountApp = com.NoxGames.MobPubUnity, mIsCallOn = false, mIsUsbPlugged = true
+03-27 16:15:25.740  1156  1535 W PackageParser: Unknown element under <manifest>: queries at /data/app/com.NoxGames.MobPubUnity-OaMl6PUEi7dJ7liGujEl5A==/base.apk Binary XML file line #34
+03-27 16:15:39.563  1905  8277 I HidataAppQoeP: foregroundUidRemove uid: 10375 name: com.NoxGames.MobPubUnity
+03-27 16:16:03.001  2337  2337 D ActivityThread: add activity client record, r= ActivityRecord{a66b730 token=android.os.BinderProxy@3bccddf {com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}} token= android.os.BinderProxy@3bccddf
+03-27 16:16:03.018  1905  8277 I HidataAppQoeP: foregroundUidAdd uid: 10375 name: com.NoxGames.MobPubUnity activity state: true
+03-27 16:16:03.024  1905  2190 I UidCloseNrStateMachine: enter uidStateChanged, ForeGrountApp = com.NoxGames.MobPubUnity, mIsCallOn = false, mIsUsbPlugged = true
+03-27 16:16:47.986  2337  2337 D ActivityThread: add activity client record, r= ActivityRecord{849daf4 token=android.os.BinderProxy@a516f2e {com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}} token= android.os.BinderProxy@a516f2e
+03-27 16:16:53.746  2337  2337 D ActivityThread: add activity client record, r= ActivityRecord{6d1d02 token=android.os.BinderProxy@b5938bc {com.NoxGames.MobPubUnity/com.mopub.common.MoPubBrowser}} token= android.os.BinderProxy@b5938bc
+03-27 16:16:59.785  1905  8277 D DollieActivityManagerAdapter: [Paused] pid:2337 uid:10375 ComponentInfo{com.NoxGames.MobPubUnity/com.mopub.common.MoPubBrowser} uidState:2
+03-27 16:16:59.785 24000 24021 I AppLifeChangeSensor: CAWARENESS: activityPaused componentName = ComponentInfo{com.NoxGames.MobPubUnity/com.mopub.common.MoPubBrowser}
+03-27 16:16:59.794 24000 24021 I AppLifeChangeSensor: CAWARENESS: activityResumed componentName = ComponentInfo{com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}
+03-27 16:16:59.794  1905  8277 D DollieActivityManagerAdapter: [Resumed] bg:false pid:2337 uid:10375 ComponentInfo{com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}
+03-27 16:16:59.794  1905  8277 E DollieAdapterService: notifyActivityState pkg:com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity state:2 fg:true mUid:10375
+03-27 16:17:00.082  2337  2337 D ActivityThread: Remove activity client record, r= ActivityRecord{6d1d02 token=android.os.BinderProxy@b5938bc {com.NoxGames.MobPubUnity/com.mopub.common.MoPubBrowser}} token= android.os.BinderProxy@b5938bc
+03-27 16:17:02.127 24000 24021 I AppLifeChangeSensor: CAWARENESS: activityPaused componentName = ComponentInfo{com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}
+03-27 16:17:02.128  1905  8277 D DollieActivityManagerAdapter: [Paused] pid:2337 uid:10375 ComponentInfo{com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity} uidState:2
+03-27 16:17:02.134  1905  8277 D DollieActivityManagerAdapter: [Resumed] bg:false pid:2337 uid:10375 ComponentInfo{com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}
+03-27 16:17:02.134  1905  8277 E DollieAdapterService: notifyActivityState pkg:com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity state:2 fg:true mUid:10375
+03-27 16:17:02.135 24000 24021 I AppLifeChangeSensor: CAWARENESS: activityResumed componentName = ComponentInfo{com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}
+03-27 16:17:02.230  2337  2337 W UnityMain: type=1400 audit(0.0:151985): avc: granted { read write } for pid=2337 name="values" dev="sdcardfs" ino=43693 scontext=u:r:untrusted_app:s0:c119,c257,c512,c768 tcontext=u:object_r:sdcardfs:s0 tclass=file
+03-27 16:17:02.230  2337  2337 W UnityMain: type=1400 audit(0.0:151986): avc: granted { read write open } for pid=2337 path="/storage/emulated/0/Android/data/com.NoxGames.MobPubUnity/files/Unity/5c0ff594-5fb0-4f8c-9fe2-01d50258cd99/Analytics/values" dev="sdcardfs" ino=43693 scontext=u:r:untrusted_app:s0:c119,c257,c512,c768 tcontext=u:object_r:sdcardfs:s0 tclass=file
+03-27 16:17:02.239  2337  2390 I Unity   : [MoPub-Unity] [EmitInterstitialShownEvent] Ad shown
+03-27 16:17:02.239  2337  2390 I Unity   : 
+03-27 16:17:02.241  2337  2390 I Unity   : New Evend >> Interstitial 24534e1901884e398f1253216226017e shown >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:17:02.241  2337  2390 I Unity   : 
+03-27 16:17:02.246  2337  2390 I Unity   : New Evend >> Interstitial 24534e1901884e398f1253216226017e was clicked >> with color flag >> RGBA(0.000, 1.000, 0.000, 1.000)
+03-27 16:17:02.246  2337  2390 I Unity   : 
+03-27 16:17:02.251  2337  2390 I Unity   : New Evend >> Interstitial 24534e1901884e398f1253216226017e was Dimissed >> with color flag >> RGBA(1.000, 0.922, 0.016, 1.000)
+03-27 16:17:02.251  2337  2390 I Unity   : 
+03-27 16:17:02.407  2337  2337 D ActivityThread: Remove activity client record, r= ActivityRecord{849daf4 token=android.os.BinderProxy@a516f2e {com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}} token= android.os.BinderProxy@a516f2e
+03-27 16:17:13.084  2337  2390 I Unity   : 1 Interstitial AdUnits loaded for plugins:
+03-27 16:17:13.084  2337  2390 I Unity   : 24534e1901884e398f1253216226017e
+03-27 16:17:13.084  2337  2390 I Unity   : 
+03-27 16:17:13.084  2337  2390 I Unity   : 1 RewardedVideo AdUnits loaded for plugins:
+03-27 16:17:13.084  2337  2390 I Unity   : 920b6145fb1546cf8b5cf2ac34638bb7
+03-27 16:17:13.084  2337  2390 I Unity   : 
+03-27 16:17:13.085  2337  2390 I Unity   : New Evend >> Initializing sdk... >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:17:13.085  2337  2390 I Unity   : 
+03-27 16:17:13.091  2337  2390 I Unity   : [MoPub-Unity] [EmitSdkInitializedEvent] SDK initialized and ready to display ads.  Log Level: Info
+03-27 16:17:13.091  2337  2390 I Unity   : 
+03-27 16:17:13.092  2337  2390 I Unity   : New Evend >> The SDK was initialized >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:17:13.092  2337  2390 I Unity   : 
+03-27 16:17:13.094  2337  2390 I Unity   : New Evend >> The SDK was initialized >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:17:13.094  2337  2390 I Unity   : 
+03-27 16:17:15.097  2337  2390 I Unity   : [MoPub-Unity] [RequestRewardedVideo] Attempting to load ad
+03-27 16:17:15.097  2337  2390 I Unity   : 
+03-27 16:17:15.114  2337  2390 I Unity   : New Evend >> Requesting rewarded video... >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:17:15.114  2337  2390 I Unity   : 
+03-27 16:17:20.460  2337  2390 I Unity   : [MoPub-Unity] [RequestRewardedVideo] Attempting to load ad
+03-27 16:17:20.460  2337  2390 I Unity   : 
+03-27 16:17:20.461  2337  2390 I Unity   : New Evend >> Requesting rewarded video... >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:17:20.461  2337  2390 I Unity   : 
+03-27 16:17:20.478  2337  2390 I Unity   : [MoPub-Unity] [EmitRewardedVideoLoadedEvent] Ad loaded
+03-27 16:17:20.478  2337  2390 I Unity   : 
+03-27 16:17:20.480  2337  2390 I Unity   : New Evend >> Rewarded Video was loaded >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:17:20.480  2337  2390 I Unity   : 
+03-27 16:17:20.483  2337  2390 I Unity   : New Evend >> Rewarded Video was loaded >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:17:20.483  2337  2390 I Unity   : 
+03-27 16:17:22.400  2337  2390 E Unity   : The rewarded video did not load
+03-27 16:17:22.400  2337  2390 E Unity   : 
+03-27 16:17:22.401  2337  2390 I Unity   : New Evend >> The rewarded video did not load >> with color flag >> RGBA(1.000, 0.000, 0.000, 1.000)
+03-27 16:17:22.401  2337  2390 I Unity   : 
+03-27 16:17:28.938  2337  2390 I Unity   : 1 Interstitial AdUnits loaded for plugins:
+03-27 16:17:28.938  2337  2390 I Unity   : 24534e1901884e398f1253216226017e
+03-27 16:17:28.938  2337  2390 I Unity   : 
+03-27 16:17:28.938  2337  2390 I Unity   : 1 RewardedVideo AdUnits loaded for plugins:
+03-27 16:17:28.938  2337  2390 I Unity   : 920b6145fb1546cf8b5cf2ac34638bb7
+03-27 16:17:28.938  2337  2390 I Unity   : 
+03-27 16:17:28.938  2337  2390 I Unity   : New Evend >> Initializing sdk... >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:17:28.938  2337  2390 I Unity   : 
+03-27 16:17:28.941  2337  2390 I Unity   : [MoPub-Unity] [EmitSdkInitializedEvent] SDK initialized and ready to display ads.  Log Level: Info
+03-27 16:17:28.941  2337  2390 I Unity   : 
+03-27 16:17:28.942  2337  2390 I Unity   : New Evend >> The SDK was initialized >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:17:28.942  2337  2390 I Unity   : 
+03-27 16:17:28.942  2337  2390 I chatty  : uid=10375(com.NoxGames.MobPubUnity) identical 11 lines
+03-27 16:17:33.675  2337  2337 I chatty  : uid=10375(com.NoxGames.MobPubUnity) expire 2 lines
+03-27 16:17:33.684  2337  2390 I chatty  : uid=10375(com.NoxGames.MobPubUnity) expire 4 lines
+03-27 16:17:36.690  2337  2337 I chatty  : uid=10375(com.NoxGames.MobPubUnity) expire 10 lines
+03-27 16:17:36.730  2337  2390 I chatty  : uid=10375(com.NoxGames.MobPubUnity) expire 2 lines
+03-27 16:17:36.748  2337  2337 I chatty  : uid=10375(com.NoxGames.MobPubUnity) expire 1 line
+03-27 16:17:36.749 24000 24021 I AppLifeChangeSensor: CAWARENESS: activityPaused componentName = ComponentInfo{com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}
+03-27 16:17:36.749  1905  8277 D DollieActivityManagerAdapter: [Paused] pid:2337 uid:10375 ComponentInfo{com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity} uidState:2
+03-27 16:17:36.797  2337  2847 I chatty  : uid=10375(com.NoxGames.MobPubUnity) expire 1 line
+03-27 16:17:36.865  2337  2337 I chatty  : uid=10375(com.NoxGames.MobPubUnity) expire 1 line
+03-27 16:17:36.865  2337  2337 D ActivityThread: add activity client record, r= ActivityRecord{8b38c68 token=android.os.BinderProxy@ef9e871 {com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}} token= android.os.BinderProxy@ef9e871
+03-27 16:17:36.877  1905  8277 D DollieActivityManagerAdapter: [Resumed] bg:false pid:2337 uid:10375 ComponentInfo{com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}
+03-27 16:17:36.877  1905  8277 E DollieAdapterService: notifyActivityState pkg:com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity state:2 fg:true mUid:10375
+03-27 16:17:36.877 24000 24021 I AppLifeChangeSensor: CAWARENESS: activityResumed componentName = ComponentInfo{com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}
+03-27 16:17:36.889  2337  2853 I chatty  : uid=10375(com.NoxGames.MobPubUnity) expire 1 line
+03-27 16:17:36.909  2337  2760 I chatty  : uid=10375(com.NoxGames.MobPubUnity) expire 1 line
+03-27 16:17:36.944  2337  2849 I chatty  : uid=10375(com.NoxGames.MobPubUnity) expire 10 lines
+03-27 16:17:36.965  2337  2337 I chatty  : uid=10375(com.NoxGames.MobPubUnity) expire 2 lines
+03-27 16:17:37.002  2337  2860 I chatty  : uid=10375(com.NoxGames.MobPubUnity) expire 2 lines
+03-27 16:17:37.050  2337  2859 I chatty  : uid=10375(com.NoxGames.MobPubUnity) expire 4 lines
+03-27 16:17:37.052  2337  2860 I chatty  : uid=10375(com.NoxGames.MobPubUnity) expire 20 lines
+03-27 16:17:37.224  2337  2873 I chatty  : uid=10375(com.NoxGames.MobPubUnity) expire 16 lines
+03-27 16:18:09.689  1905  8277 D DollieActivityManagerAdapter: [Paused] pid:2337 uid:10375 ComponentInfo{com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity} uidState:2
+03-27 16:18:09.689 24000 24021 I AppLifeChangeSensor: CAWARENESS: activityPaused componentName = ComponentInfo{com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}
+03-27 16:18:09.697  1905  8277 D DollieActivityManagerAdapter: [Resumed] bg:false pid:2337 uid:10375 ComponentInfo{com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}
+03-27 16:18:09.697  1905  8277 E DollieAdapterService: notifyActivityState pkg:com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity state:2 fg:true mUid:10375
+03-27 16:18:09.697 24000 24021 I AppLifeChangeSensor: CAWARENESS: activityResumed componentName = ComponentInfo{com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}
+03-27 16:18:09.782  2337  2337 W UnityMain: type=1400 audit(0.0:152246): avc: granted { read write } for pid=2337 name="values" dev="sdcardfs" ino=43693 scontext=u:r:untrusted_app:s0:c119,c257,c512,c768 tcontext=u:object_r:sdcardfs:s0 tclass=file
+03-27 16:18:09.782  2337  2337 W UnityMain: type=1400 audit(0.0:152247): avc: granted { read write open } for pid=2337 path="/storage/emulated/0/Android/data/com.NoxGames.MobPubUnity/files/Unity/5c0ff594-5fb0-4f8c-9fe2-01d50258cd99/Analytics/values" dev="sdcardfs" ino=43693 scontext=u:r:untrusted_app:s0:c119,c257,c512,c768 tcontext=u:object_r:sdcardfs:s0 tclass=file
+03-27 16:18:09.792  2337  2390 I Unity   : [MoPub-Unity] [EmitRewardedVideoShownEvent] Ad shown
+03-27 16:18:09.792  2337  2390 I Unity   : 
+03-27 16:18:09.793  2337  2390 I Unity   : New Evend >> Interstitial 920b6145fb1546cf8b5cf2ac34638bb7 shown >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:18:09.793  2337  2390 I Unity   : 
+03-27 16:18:09.801  2337  2390 W Unity   : 920b6145fb1546cf8b5cf2ac34638bb7  --  Coins  --  10
+03-27 16:18:09.801  2337  2390 W Unity   : 
+03-27 16:18:09.961  2337  2337 D ActivityThread: Remove activity client record, r= ActivityRecord{8b38c68 token=android.os.BinderProxy@ef9e871 {com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}} token= android.os.BinderProxy@ef9e871
+03-27 16:18:13.608  2337  2390 I Unity   : 1 Interstitial AdUnits loaded for plugins:
+03-27 16:18:13.608  2337  2390 I Unity   : 24534e1901884e398f1253216226017e
+03-27 16:18:13.608  2337  2390 I Unity   : 
+03-27 16:18:13.609  2337  2390 I Unity   : 1 RewardedVideo AdUnits loaded for plugins:
+03-27 16:18:13.609  2337  2390 I Unity   : 920b6145fb1546cf8b5cf2ac34638bb7
+03-27 16:18:13.609  2337  2390 I Unity   : 
+03-27 16:18:13.609  2337  2390 I Unity   : New Evend >> Initializing sdk... >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:18:13.609  2337  2390 I Unity   : 
+03-27 16:18:13.612  2337  2390 I Unity   : [MoPub-Unity] [EmitSdkInitializedEvent] SDK initialized and ready to display ads.  Log Level: Info
+03-27 16:18:13.612  2337  2390 I Unity   : 
+03-27 16:18:13.612  2337  2390 I Unity   : New Evend >> The SDK was initialized >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:18:13.612  2337  2390 I Unity   : 
+03-27 16:18:13.614  2337  2390 I chatty  : uid=10375(com.NoxGames.MobPubUnity) identical 7 lines
+03-27 16:18:13.615  2337  2390 I Unity   : New Evend >> The SDK was initialized >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:18:13.615  2337  2390 I Unity   : 
+03-27 16:18:14.736  2337  2390 I Unity   : [MoPub-Unity] [RequestInterstitialAd] Attempting to load ad
+03-27 16:18:14.736  2337  2390 I Unity   : 
+03-27 16:18:14.737  2337  2390 I Unity   : New Evend >> Requesting intestitial... >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:18:14.737  2337  2390 I Unity   : 
+03-27 16:18:15.034  2337  2337 D ConnectivityManager: requestNetwork and the calling app is: com.NoxGames.MobPubUnity
+03-27 16:18:15.435  2337  2390 I Unity   : [MoPub-Unity] [EmitInterstitialLoadedEvent] Ad loaded
+03-27 16:18:15.435  2337  2390 I Unity   : 
+03-27 16:18:15.435  2337  2390 I Unity   : New Evend >> Interstitial was loaded >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:18:15.435  2337  2390 I Unity   : 
+03-27 16:18:15.436  2337  2390 I Unity   : New Evend >> Interstitial was loaded >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:18:15.436  2337  2390 I Unity   : 
+03-27 16:18:16.918  2337  2390 I Unity   : [MoPub-Unity] [ShowInterstitialAd] Attempting to show ad
+03-27 16:18:16.918  2337  2390 I Unity   : 
+03-27 16:18:16.946  2337  2337 W UnityMain: type=1400 audit(0.0:152330): avc: granted { read write } for pid=2337 name="values" dev="sdcardfs" ino=43693 scontext=u:r:untrusted_app:s0:c119,c257,c512,c768 tcontext=u:object_r:sdcardfs:s0 tclass=file
+03-27 16:18:16.946  2337  2337 W UnityMain: type=1400 audit(0.0:152332): avc: granted { read write open } for pid=2337 path="/storage/emulated/0/Android/data/com.NoxGames.MobPubUnity/files/Unity/5c0ff594-5fb0-4f8c-9fe2-01d50258cd99/Analytics/values" dev="sdcardfs" ino=43693 scontext=u:r:untrusted_app:s0:c119,c257,c512,c768 tcontext=u:object_r:sdcardfs:s0 tclass=file
+03-27 16:18:16.989  1905  8277 D DollieActivityManagerAdapter: [Paused] pid:2337 uid:10375 ComponentInfo{com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity} uidState:2
+03-27 16:18:16.989 24000 24021 I AppLifeChangeSensor: CAWARENESS: activityPaused componentName = ComponentInfo{com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}
+03-27 16:18:17.000  2337  2337 D ActivityThread: add activity client record, r= ActivityRecord{b1a7479 token=android.os.BinderProxy@7117fe6 {com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}} token= android.os.BinderProxy@7117fe6
+03-27 16:18:17.008 24000 24021 I AppLifeChangeSensor: CAWARENESS: activityResumed componentName = ComponentInfo{com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}
+03-27 16:18:17.010  1905  8277 D DollieActivityManagerAdapter: [Resumed] bg:false pid:2337 uid:10375 ComponentInfo{com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}
+03-27 16:18:17.010  1905  8277 E DollieAdapterService: notifyActivityState pkg:com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity state:2 fg:true mUid:10375
+03-27 16:18:17.014  2337  3022 D HiTouch_PressGestureDetector: onAttached, package=com.NoxGames.MobPubUnity, windowType=1, mHiTouchRestricted=false
+03-27 16:18:18.829 24000 24021 I AppLifeChangeSensor: CAWARENESS: activityPaused componentName = ComponentInfo{com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}
+03-27 16:18:18.830  1905  8277 D DollieActivityManagerAdapter: [Paused] pid:2337 uid:10375 ComponentInfo{com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity} uidState:2
+03-27 16:18:18.836  1188  1474 I HwAudioServiceEx: ComponentInfo : className = com.unity3d.player.UnityPlayerActivity, flag=onResume, isHomeActivity=, isTop=true
+03-27 16:18:18.836  1905  8277 D DollieActivityManagerAdapter: [Resumed] bg:false pid:2337 uid:10375 ComponentInfo{com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}
+03-27 16:18:18.836  1905  8277 E DollieAdapterService: notifyActivityState pkg:com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity state:2 fg:true mUid:10375
+03-27 16:18:18.839 24000 24021 I AppLifeChangeSensor: CAWARENESS: activityResumed componentName = ComponentInfo{com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}
+03-27 16:18:18.852  1188  1875 V HwPhoneWindowManager: updateSystemUiColorLw window=Window{910ce79 u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity},EmuiStyle=0,StatusBarColor=0xff757575,NavigationBarColor=0xfffcfcfc, mForceNotchStatusBar=false
+03-27 16:18:18.853  1188  1461 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{910ce79 u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}
+03-27 16:18:18.872  1188  1464 D HwWindowManagerServiceEx: is app exit to launcher info: transit = 7, app = AppWindowToken{d838d5d token=Token{257cb34 ActivityRecord{1378e07 u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity t6869}}}, window = Window{570a259 u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}, mClosingApps = {AppWindowToken{d838d5d token=Token{257cb34 ActivityRecord{1378e07 u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity t6869}}}}, topOpeningApp = AppWindowToken{ad6dfe5 token=Token{54232dc ActivityRecord{db8c1ae u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity t6869}}}, mExitIconBitmap = null, mExitIconHeight = -1, mExitIconWidth = -1
+03-27 16:18:18.875  1188  1464 D HwWindowManagerServiceEx: is app exit to launcher info: transit = 7, app = AppWindowToken{ad6dfe5 token=Token{54232dc ActivityRecord{db8c1ae u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity t6869}}}, window = Window{910ce79 u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}, mClosingApps = {AppWindowToken{d838d5d token=Token{257cb34 ActivityRecord{1378e07 u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity t6869}}}}, topOpeningApp = AppWindowToken{ad6dfe5 token=Token{54232dc ActivityRecord{db8c1ae u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity t6869}}}, mExitIconBitmap = null, mExitIconHeight = -1, mExitIconWidth = -1
+03-27 16:18:18.880  1188  1461 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{910ce79 u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}
+03-27 16:18:18.938  2337  2337 W UnityMain: type=1400 audit(0.0:152504): avc: granted { read write } for pid=2337 name="values" dev="sdcardfs" ino=43693 scontext=u:r:untrusted_app:s0:c119,c257,c512,c768 tcontext=u:object_r:sdcardfs:s0 tclass=file
+03-27 16:18:18.938  2337  2337 W UnityMain: type=1400 audit(0.0:152506): avc: granted { read write open } for pid=2337 path="/storage/emulated/0/Android/data/com.NoxGames.MobPubUnity/files/Unity/5c0ff594-5fb0-4f8c-9fe2-01d50258cd99/Analytics/values" dev="sdcardfs" ino=43693 scontext=u:r:untrusted_app:s0:c119,c257,c512,c768 tcontext=u:object_r:sdcardfs:s0 tclass=file
+03-27 16:18:18.945  2337  2390 I Unity   : [MoPub-Unity] [EmitInterstitialShownEvent] Ad shown
+03-27 16:18:18.945  2337  2390 I Unity   : 
+03-27 16:18:18.945  2337  2390 I Unity   : New Evend >> Interstitial 24534e1901884e398f1253216226017e shown >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:18:18.945  2337  2390 I Unity   : 
+03-27 16:18:18.946  2337  2390 I Unity   : New Evend >> Interstitial 24534e1901884e398f1253216226017e shown >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:18:18.946  2337  2390 I Unity   : 
+03-27 16:18:18.948  2337  2390 I Unity   : New Evend >> Interstitial 24534e1901884e398f1253216226017e was Dimissed >> with color flag >> RGBA(1.000, 0.922, 0.016, 1.000)
+03-27 16:18:18.948  2337  2390 I Unity   : 
+03-27 16:18:18.948  2337  2390 I Unity   : New Evend >> Interstitial 24534e1901884e398f1253216226017e was Dimissed >> with color flag >> RGBA(1.000, 0.922, 0.016, 1.000)
+03-27 16:18:18.948  2337  2390 I Unity   : 
+03-27 16:18:19.089  2337  2337 D ActivityThread: Remove activity client record, r= ActivityRecord{b1a7479 token=android.os.BinderProxy@7117fe6 {com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}} token= android.os.BinderProxy@7117fe6
+03-27 16:18:19.089  1188  1875 V WindowManager: removeIfPossible: Window{570a259 u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity} callers=com.android.server.wm.WindowState.removeIfPossible:2260 com.android.server.wm.WindowManagerService.removeWindow:2019 com.android.server.wm.Session.remove:176 android.view.IWindowSession$Stub.onTransact:634 com.android.server.wm.Session.onTransact:134 
+03-27 16:18:19.090  1188  1875 V WindowManager: postWindowRemoveCleanupLocked: Window{570a259 u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}
+03-27 16:18:19.090  1188  1875 V WindowManager: Removing Window{570a259 u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity} from AppWindowToken{d838d5d token=Token{257cb34 ActivityRecord{1378e07 u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity t6869}}}
+03-27 16:18:19.094  1188  1875 V WindowManager: removeAppToken: AppWindowToken{d838d5d token=Token{257cb34 ActivityRecord{1378e07 u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity t6869}}} delayed=false Callers=com.android.server.wm.DisplayContent.removeAppToken:1204 com.android.server.wm.ActivityRecord.removeWindowContainer:1298 com.android.server.wm.ActivityStack.removeActivityFromHistoryLocked:4927 com.android.server.wm.ActivityStack.activityDestroyedLocked:5218 
+03-27 16:18:20.586  2337  2390 I Unity   : 1 Interstitial AdUnits loaded for plugins:
+03-27 16:18:20.586  2337  2390 I Unity   : 24534e1901884e398f1253216226017e
+03-27 16:18:20.586  2337  2390 I Unity   : 
+03-27 16:18:20.586  2337  2390 I Unity   : 1 RewardedVideo AdUnits loaded for plugins:
+03-27 16:18:20.586  2337  2390 I Unity   : 920b6145fb1546cf8b5cf2ac34638bb7
+03-27 16:18:20.586  2337  2390 I Unity   : 
+03-27 16:18:20.586  2337  2390 I Unity   : New Evend >> Initializing sdk... >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:18:20.586  2337  2390 I Unity   : 
+03-27 16:18:20.590  2337  2390 I Unity   : [MoPub-Unity] [EmitSdkInitializedEvent] SDK initialized and ready to display ads.  Log Level: Info
+03-27 16:18:20.590  2337  2390 I Unity   : 
+03-27 16:18:20.591  2337  2390 I Unity   : New Evend >> The SDK was initialized >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:18:20.591  2337  2390 I Unity   : 
+03-27 16:18:20.595  2337  2390 I Unity   : New Evend >> The SDK was initialized >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:18:20.595  2337  2390 I Unity   : 
+03-27 16:18:22.032  2337  2390 I Unity   : [MoPub-Unity] [RequestRewardedVideo] Attempting to load ad
+03-27 16:18:22.032  2337  2390 I Unity   : 
+03-27 16:18:22.033  2337  2390 I Unity   : New Evend >> Requesting rewarded video... >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:18:22.033  2337  2390 I Unity   : 
+03-27 16:18:22.580  2337  2390 I Unity   : [MoPub-Unity] [EmitRewardedVideoLoadedEvent] Ad loaded
+03-27 16:18:22.580  2337  2390 I Unity   : 
+03-27 16:18:22.580  2337  2390 I Unity   : New Evend >> Rewarded Video was loaded >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:18:22.580  2337  2390 I Unity   : 
+03-27 16:18:22.582  2337  2390 I Unity   : New Evend >> Rewarded Video was loaded >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:18:22.582  2337  2390 I Unity   : 
+03-27 16:18:24.047  2337  2390 I Unity   : [MoPub-Unity] [ShowRewardedVideo] Attempting to show ad
+03-27 16:18:24.047  2337  2390 I Unity   : 
+03-27 16:18:24.057  1188  3954 I ActivityTaskManager: START u0 {flg=0x10000000 hwFlg=0x10 cmp=com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity (has extras)} from uid 10375
+03-27 16:18:24.060  1188  3954 I HwActivityTaskManagerServiceEx: packageName:com.NoxGames.MobPubUnity,requestCode:-1,isIntercepted:false,userId:0
+03-27 16:18:24.060  1188  3954 I HwActivityTaskManagerServiceEx: callingPackage:com.NoxGames.MobPubUnity
+03-27 16:18:24.061  1188  3954 D ActivityTaskManager: TaskLaunchParamsModifier:task=null activity=ActivityRecord{6a07f06 u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity t-1} display-from-source=0 display-id=0 display-windowing-mode=1
+03-27 16:18:24.062  1188  3954 D ActivityTaskManager: TaskLaunchParamsModifier:task=TaskRecord{d41ab4f #6869 A=com.NoxGames.MobPubUnity U=0 StackId=128 sz=1} activity=ActivityRecord{6a07f06 u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity t-1} display-from-task=0 display-id=0 display-windowing-mode=1 activity-options-fullscreen=Rect(0, 0 - 0, 0) inherit-fullscreen non-freeform-display
+03-27 16:18:24.065  1188  3954 V ActivityTaskManager: addAppToken: AppWindowToken{5e5cbf4 token=Token{dae19c7 ActivityRecord{6a07f06 u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity t6869}}} task={taskId=6869 appTokens=[AppWindowToken{ad6dfe5 token=Token{54232dc ActivityRecord{db8c1ae u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity t6869}}}] mdr=false} at 2147483647
+03-27 16:18:24.103  1188  1621 V ActivityTaskManager: Making visible and scheduling visibility: ActivityRecord{6a07f06 u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity t6869}
+03-27 16:18:24.111  1188  1474 I HwAudioServiceEx: ComponentInfo : className = com.unity3d.player.UnityPlayerActivity, flag=onPause, isHomeActivity=, isTop=false
+03-27 16:18:24.111 24000 24021 I AppLifeChangeSensor: CAWARENESS: activityPaused componentName = ComponentInfo{com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}
+03-27 16:18:24.112  1905  8277 D DollieActivityManagerAdapter: [Paused] pid:2337 uid:10375 ComponentInfo{com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity} uidState:2
+03-27 16:18:24.147  2337  2337 D ActivityThread: add activity client record, r= ActivityRecord{db98bb7 token=android.os.BinderProxy@a6cffa5 {com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}} token= android.os.BinderProxy@a6cffa5
+03-27 16:18:24.154  1188  1621 V WindowManager: addWindow: Window{77a03db u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}
+03-27 16:18:24.157 24000 24021 I AppLifeChangeSensor: CAWARENESS: activityResumed componentName = ComponentInfo{com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}
+03-27 16:18:24.159  1905  8277 D DollieActivityManagerAdapter: [Resumed] bg:false pid:2337 uid:10375 ComponentInfo{com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}
+03-27 16:18:24.159  1905  8277 E DollieAdapterService: notifyActivityState pkg:com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity state:2 fg:true mUid:10375
+03-27 16:18:24.164  2337  3043 D HiTouch_PressGestureDetector: onAttached, package=com.NoxGames.MobPubUnity, windowType=1, mHiTouchRestricted=false
+03-27 16:18:24.178  1188  4218 V HwPhoneWindowManager: updateSystemUiColorLw window=Window{77a03db u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity},EmuiStyle=0,StatusBarColor=0x0,NavigationBarColor=0xfffcfcfc, mForceNotchStatusBar=false
+03-27 16:18:24.181  1188  1461 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{77a03db u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}
+03-27 16:18:24.217  1188  1464 D HwWindowManagerServiceEx: is app exit to launcher info: transit = 6, app = AppWindowToken{ad6dfe5 token=Token{54232dc ActivityRecord{db8c1ae u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity t6869}}}, window = Window{910ce79 u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}, mClosingApps = {AppWindowToken{ad6dfe5 token=Token{54232dc ActivityRecord{db8c1ae u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity t6869}}}}, topOpeningApp = AppWindowToken{5e5cbf4 token=Token{dae19c7 ActivityRecord{6a07f06 u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity t6869}}}, mExitIconBitmap = null, mExitIconHeight = -1, mExitIconWidth = -1
+03-27 16:18:24.221  1188  1464 D HwWindowManagerServiceEx: is app exit to launcher info: transit = 6, app = AppWindowToken{5e5cbf4 token=Token{dae19c7 ActivityRecord{6a07f06 u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity t6869}}}, window = Window{77a03db u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}, mClosingApps = {AppWindowToken{ad6dfe5 token=Token{54232dc ActivityRecord{db8c1ae u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity t6869}}}}, topOpeningApp = AppWindowToken{5e5cbf4 token=Token{dae19c7 ActivityRecord{6a07f06 u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity t6869}}}, mExitIconBitmap = null, mExitIconHeight = -1, mExitIconWidth = -1
+03-27 16:18:24.226  1188  1461 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{77a03db u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}
+03-27 16:18:24.443  1188  1621 V WindowManager: notifyAppStopped: AppWindowToken{ad6dfe5 token=Token{54232dc ActivityRecord{db8c1ae u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity t6869}}}
+03-27 16:18:24.443  1188  1621 E WindowManager: win=Window{910ce79 u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity} destroySurfaces: appStopped=true win.mWindowRemovalAllowed=false win.mRemoveOnExit=false
+03-27 16:18:26.122  1996  3405 I DownloadState: singleUid: 10375 [com.NoxGames.MobPubUnity] speed: 2782 real speed: 2755 (rxB:6037 txB:7873 rxP:14 txP:19) scroff: false
+03-27 16:18:43.628  1188  1875 I ActivityManager: Need to start process com.huawei.hitouch for provider ContentProviderInfo{name=com.huawei.hiaction.provider.HiActionManagerProvider className=com.huawei.hiaction.provider.HiActionManagerProvider}, callerApp: ProcessRecord{2da0c8 2337:com.NoxGames.MobPubUnity/u0a375}
+03-27 16:18:43.870  2337  2337 I HiTouch_HiTouchSensor: Checking pkgName: com.NoxGames.MobPubUnity Checking result: false
+03-27 16:18:45.689  2337  2337 I HiTouch_HiTouchSensor: Checking pkgName: com.NoxGames.MobPubUnity Checking result: false
+03-27 16:18:46.106  2337  2337 I HiTouch_HiTouchSensor: Checking pkgName: com.NoxGames.MobPubUnity Checking result: false
+03-27 16:18:46.289  2337  2337 I HiTouch_HiTouchSensor: Checking pkgName: com.NoxGames.MobPubUnity Checking result: false
+03-27 16:18:46.456  2337  2337 I HiTouch_HiTouchSensor: Checking pkgName: com.NoxGames.MobPubUnity Checking result: false
+03-27 16:18:55.187   657   657 D BufferQueueLayer: [SurfaceView - com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity#0]: isDue = 0, !isPlausible = 0, Timestamp = 34398526222414, expectedPresent = 34398513749294
+03-27 16:18:55.220   657   657 D BufferQueueLayer: [SurfaceView - com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity#0]: isDue = 0, !isPlausible = 0, Timestamp = 34398559555744, expectedPresent = 34398547059710
+03-27 16:18:55.254   657   657 D BufferQueueLayer: [SurfaceView - com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity#0]: isDue = 0, !isPlausible = 0, Timestamp = 34398592889074, expectedPresent = 34398580370126
+03-27 16:18:55.287   657   657 D BufferQueueLayer: [SurfaceView - com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity#0]: isDue = 0, !isPlausible = 0, Timestamp = 34398626222404, expectedPresent = 34398613680542
+03-27 16:18:55.320   657   657 D BufferQueueLayer: [SurfaceView - com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity#0]: isDue = 0, !isPlausible = 0, Timestamp = 34398659555734, expectedPresent = 34398646990958
+03-27 16:18:55.505  1996  2170 I ScenarioService: check surface view pkg: com.NoxGames.MobPubUnity
+03-27 16:18:56.329  1996  3405 I DownloadState: singleUid: 10375 [com.NoxGames.MobPubUnity] speed: 10 real speed: 10 (rxB:0 txB:52 rxP:0 txP:1) scroff: false
+03-27 16:18:58.343  1188  1875 V WindowManager: notifyAppResumed: wasStopped=true AppWindowToken{ad6dfe5 token=Token{54232dc ActivityRecord{db8c1ae u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity t6869}}}
+03-27 16:18:58.354 24000 24021 I AppLifeChangeSensor: CAWARENESS: activityPaused componentName = ComponentInfo{com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}
+03-27 16:18:58.356  1905  8277 D DollieActivityManagerAdapter: [Paused] pid:2337 uid:10375 ComponentInfo{com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity} uidState:2
+03-27 16:18:58.367  1188  1474 I HwAudioServiceEx: ComponentInfo : className = com.unity3d.player.UnityPlayerActivity, flag=onResume, isHomeActivity=, isTop=true
+03-27 16:18:58.367  1905  8277 D DollieActivityManagerAdapter: [Resumed] bg:false pid:2337 uid:10375 ComponentInfo{com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}
+03-27 16:18:58.367  1905  8277 E DollieAdapterService: notifyActivityState pkg:com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity state:2 fg:true mUid:10375
+03-27 16:18:58.368 24000 24021 I AppLifeChangeSensor: CAWARENESS: activityResumed componentName = ComponentInfo{com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}
+03-27 16:18:58.378  1188  4218 V HwPhoneWindowManager: updateSystemUiColorLw window=Window{910ce79 u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity},EmuiStyle=0,StatusBarColor=0xff757575,NavigationBarColor=0xfffcfcfc, mForceNotchStatusBar=false
+03-27 16:18:58.379  1188  1461 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{910ce79 u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}
+03-27 16:18:58.398  1188  1464 D HwWindowManagerServiceEx: is app exit to launcher info: transit = 7, app = AppWindowToken{5e5cbf4 token=Token{dae19c7 ActivityRecord{6a07f06 u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity t6869}}}, window = Window{77a03db u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}, mClosingApps = {AppWindowToken{5e5cbf4 token=Token{dae19c7 ActivityRecord{6a07f06 u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity t6869}}}}, topOpeningApp = AppWindowToken{ad6dfe5 token=Token{54232dc ActivityRecord{db8c1ae u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity t6869}}}, mExitIconBitmap = null, mExitIconHeight = -1, mExitIconWidth = -1
+03-27 16:18:58.401  1188  1464 D HwWindowManagerServiceEx: is app exit to launcher info: transit = 7, app = AppWindowToken{ad6dfe5 token=Token{54232dc ActivityRecord{db8c1ae u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity t6869}}}, window = Window{910ce79 u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}, mClosingApps = {AppWindowToken{5e5cbf4 token=Token{dae19c7 ActivityRecord{6a07f06 u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity t6869}}}}, topOpeningApp = AppWindowToken{ad6dfe5 token=Token{54232dc ActivityRecord{db8c1ae u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity t6869}}}, mExitIconBitmap = null, mExitIconHeight = -1, mExitIconWidth = -1
+03-27 16:18:58.404  1188  1461 I StatusBarDisable: setFlags what=0 which=1 pkg=Window{910ce79 u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}
+03-27 16:18:58.413   657   751 E BufferQueueProducer: [SurfaceView - com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity#0]:1338: disconnect: not connected (req=1)
+03-27 16:18:58.458  2337  2337 W UnityMain: type=1400 audit(0.0:152766): avc: granted { read write } for pid=2337 name="values" dev="sdcardfs" ino=43693 scontext=u:r:untrusted_app:s0:c119,c257,c512,c768 tcontext=u:object_r:sdcardfs:s0 tclass=file
+03-27 16:18:58.458  2337  2337 W UnityMain: type=1400 audit(0.0:152767): avc: granted { read write open } for pid=2337 path="/storage/emulated/0/Android/data/com.NoxGames.MobPubUnity/files/Unity/5c0ff594-5fb0-4f8c-9fe2-01d50258cd99/Analytics/values" dev="sdcardfs" ino=43693 scontext=u:r:untrusted_app:s0:c119,c257,c512,c768 tcontext=u:object_r:sdcardfs:s0 tclass=file
+03-27 16:18:58.467  2337  2390 I Unity   : [MoPub-Unity] [EmitRewardedVideoShownEvent] Ad shown
+03-27 16:18:58.467  2337  2390 I Unity   : 
+03-27 16:18:58.468  2337  2390 I Unity   : New Evend >> Interstitial 920b6145fb1546cf8b5cf2ac34638bb7 shown >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:18:58.468  2337  2390 I Unity   : 
+03-27 16:18:58.468  2337  2390 I Unity   : New Evend >> Interstitial 920b6145fb1546cf8b5cf2ac34638bb7 shown >> with color flag >> RGBA(1.000, 1.000, 1.000, 1.000)
+03-27 16:18:58.468  2337  2390 I Unity   : 
+03-27 16:18:58.462  2337  2337 W CloudJob.Worker: type=1400 audit(0.0:152773): avc: granted { write open } for pid=2337 path="/storage/emulated/0/Android/data/com.NoxGames.MobPubUnity/files/Unity/5c0ff594-5fb0-4f8c-9fe2-01d50258cd99/Analytics/ArchivedEvents/161687993800012.4de1038b/s" dev="sdcardfs" ino=137772 scontext=u:r:untrusted_app:s0:c119,c257,c512,c768 tcontext=u:object_r:sdcardfs:s0 tclass=file
+03-27 16:18:58.471  2337  2390 W Unity   : 920b6145fb1546cf8b5cf2ac34638bb7  --  Coins  --  10
+03-27 16:18:58.471  2337  2390 W Unity   : 
+03-27 16:18:58.471  2337  2390 W Unity   : 920b6145fb1546cf8b5cf2ac34638bb7  --  Coins  --  10
+03-27 16:18:58.471  2337  2390 W Unity   : 
+03-27 16:18:58.639   657   752 E BufferQueueProducer: [com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity#0]:1338: disconnect: not connected (req=1)
+03-27 16:18:58.645  2337  2337 D ActivityThread: Remove activity client record, r= ActivityRecord{db98bb7 token=android.os.BinderProxy@a6cffa5 {com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}} token= android.os.BinderProxy@a6cffa5
+03-27 16:18:58.647  1188  1779 V WindowManager: removeIfPossible: Window{77a03db u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity} callers=com.android.server.wm.WindowState.removeIfPossible:2260 com.android.server.wm.WindowManagerService.removeWindow:2019 com.android.server.wm.Session.remove:176 android.view.IWindowSession$Stub.onTransact:634 com.android.server.wm.Session.onTransact:134 
+03-27 16:18:58.648  1188  1779 V WindowManager: postWindowRemoveCleanupLocked: Window{77a03db u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity}
+03-27 16:18:58.648  1188  1779 V WindowManager: Removing Window{77a03db u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity} from AppWindowToken{5e5cbf4 token=Token{dae19c7 ActivityRecord{6a07f06 u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity t6869}}}
+03-27 16:18:58.652  1188  1779 V WindowManager: removeAppToken: AppWindowToken{5e5cbf4 token=Token{dae19c7 ActivityRecord{6a07f06 u0 com.NoxGames.MobPubUnity/com.mopub.mobileads.MoPubFullscreenActivity t6869}}} delayed=false Callers=com.android.server.wm.DisplayContent.removeAppToken:1204 com.android.server.wm.ActivityRecord.removeWindowContainer:1298 com.android.server.wm.ActivityStack.removeActivityFromHistoryLocked:4927 com.android.server.wm.ActivityStack.activityDestroyedLocked:5218 
+03-27 16:19:00.241  1188  1875 W HwActivityTaskManagerServiceEx: setResumedActivityUncheckLocked start call, from: ActivityRecord{db8c1ae u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity t6869 f}, to: ActivityRecord{3b0ee3e u0 com.huawei.android.launcher/.unihome.UniHomeLauncher t1}
+03-27 16:19:00.242  1188  1875 W HwActivityTaskManagerServiceEx: appSwitch from: com.NoxGames.MobPubUnity to: com.huawei.android.launcher
+03-27 16:19:00.250  1905 17281 D AssistantService-1011301: registerHwActivityNotifier call fromPackage:com.NoxGames.MobPubUnity, toPackage:com.huawei.android.launcher
+03-27 16:19:00.250  1905  3982 D AssistantService-1011301: handleMessage app switch fromPackage:com.NoxGames.MobPubUnity, toPackage:com.huawei.android.launcher
+03-27 16:19:00.252  1905  3982 D AssistantService-1011301: package:com.NoxGames.MobPubUnity inAppAssistant:false
+03-27 16:19:00.757  1188  1463 W ActivityTaskManager: Activity pause timeout for ActivityRecord{db8c1ae u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity t6869 f}
+03-27 16:19:00.773  1996  2671 I PGServer: report state:10011 event type:2 pid:0 uid:0 pkg:com.NoxGames.MobPubUnity to pid: 1188
+03-27 16:19:00.773  1996  2671 I PGServer: report state:10011 event type:2 pid:0 uid:0 pkg:com.NoxGames.MobPubUnity to pid: 1996
+03-27 16:19:00.785  1996  2170 I AppsUsage: scnOff:false FgAPP:com.huawei.android.launcher BgAPP:com.NoxGames.MobPubUnity
+03-27 16:19:00.785  1996  2671 I SceneReceiver: state type: 10011 eventType:2 pid:0 uid:0 pkg:com.NoxGames.MobPubUnity
+03-27 16:19:00.800  1996  3134 D ThermalTrace_ThermalRaise: current pkg:com.NoxGames.MobPubUnity
+03-27 16:19:00.939  1188  1464 D HwWindowManagerServiceEx: is app exit to launcher info: transit = 13, app = AppWindowToken{ad6dfe5 token=Token{54232dc ActivityRecord{db8c1ae u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity t6869}}}, window = Window{910ce79 u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}, mClosingApps = {AppWindowToken{ad6dfe5 token=Token{54232dc ActivityRecord{db8c1ae u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity t6869}}}}, topOpeningApp = AppWindowToken{d2cbbb token=Token{4c9b04a ActivityRecord{3b0ee3e u0 com.huawei.android.launcher/.unihome.UniHomeLauncher t1}}}, mExitIconBitmap = android.graphics.Bitmap@ee27be5, mExitIconHeight = 170, mExitIconWidth = 170
+03-27 16:19:00.958  1188  1464 D HwWindowManagerServiceEx: is app exit to launcher info: transit = 13, app = AppWindowToken{d2cbbb token=Token{4c9b04a ActivityRecord{3b0ee3e u0 com.huawei.android.launcher/.unihome.UniHomeLauncher t1}}}, window = Window{d4f3046 u0 com.huawei.android.launcher/com.huawei.android.launcher.unihome.UniHomeLauncher}, mClosingApps = {AppWindowToken{ad6dfe5 token=Token{54232dc ActivityRecord{db8c1ae u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity t6869}}}}, topOpeningApp = AppWindowToken{d2cbbb token=Token{4c9b04a ActivityRecord{3b0ee3e u0 com.huawei.android.launcher/.unihome.UniHomeLauncher t1}}}, mExitIconBitmap = android.graphics.Bitmap@ee27be5, mExitIconHeight = 170, mExitIconWidth = 170
+03-27 16:19:00.958  1188  1464 I HwWindowManagerServiceEx: {AppWindowToken{ad6dfe5 token=Token{54232dc ActivityRecord{db8c1ae u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity t6869}}}} is closing and {AppWindowToken{d2cbbb token=Token{4c9b04a ActivityRecord{3b0ee3e u0 com.huawei.android.launcher/.unihome.UniHomeLauncher t1}}}}is opening
+03-27 16:19:01.358  1905  8277 E DollieAdapterService: notifyActivityState pkg:com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity state:19 fg:false mUid:10375
+03-27 16:19:01.359  1905  8277 I HidataAppQoeP: foregroundUidRemove uid: 10375 name: com.NoxGames.MobPubUnity
+03-27 16:19:01.361   786 28319 D iTouchService: itouch currentPackageName = com.NoxGames.MobPubUnity
+03-27 16:19:01.361   786 28319 D iTouchService: itouch:app com.NoxGames.MobPubUnity is  not in StylusPenList
+03-27 16:19:01.370  1996  3405 I DownloadState: singleUid: 10375 [com.NoxGames.MobPubUnity] speed: 654 real speed: 650 (rxB:515 txB:2758 rxP:7 txP:7) scroff: false
+03-27 16:19:02.642  1188  1474 I HwAudioServiceEx: ComponentInfo : className = com.unity3d.player.UnityPlayerActivity, flag=onPause, isHomeActivity=, isTop=false
+03-27 16:19:02.642 24000 24021 I AppLifeChangeSensor: CAWARENESS: activityPaused componentName = ComponentInfo{com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}
+03-27 16:19:02.643  1905  8277 D DollieActivityManagerAdapter: [Paused] pid:2337 uid:10375 ComponentInfo{com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity} uidState:19
+03-27 16:19:02.765  1188  1607 W InputDispatcher: channel '910ce79 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+03-27 16:19:02.765  1188  1607 E InputDispatcher: channel '910ce79 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+03-27 16:19:02.765  1188  1607 I WindowManager: WINDOW DIED Window{910ce79 u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}
+03-27 16:19:02.765  1188  1607 V WindowManager: removeIfPossible: Window{910ce79 u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity} callers=com.android.server.wm.WindowState.removeIfPossible:2260 com.android.server.wm.InputManagerCallback.notifyInputChannelBroken:60 com.android.server.input.InputManagerService.notifyInputChannelBroken:1881 <bottom of call stack> <bottom of call stack> 
+03-27 16:19:02.766  1188  1607 W InputDispatcher: Attempted to unregister already unregistered input channel '910ce79 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity (server)'
+03-27 16:19:02.767  1188  1607 V WindowManager: postWindowRemoveCleanupLocked: Window{910ce79 u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity}
+03-27 16:19:02.767  1188  1607 V WindowManager: Removing Window{910ce79 u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity} from AppWindowToken{ad6dfe5 token=Token{54232dc ActivityRecord{db8c1ae u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity t6869}}}
+03-27 16:19:02.775  1188  1270 I ActivityManager: Process com.NoxGames.MobPubUnity (pid 2337) has died: cch CRE 
+03-27 16:19:02.776  1188  1270 D ActivityManager: cleanUpApplicationRecord app: ProcessRecord{2da0c8 2337:com.NoxGames.MobPubUnity/u0a375}, app.bad: false, restarting: false, allowRestart: true
+03-27 16:19:02.779  1188  1270 V WindowManager: removeAppToken: AppWindowToken{ad6dfe5 token=Token{54232dc ActivityRecord{db8c1ae u0 com.NoxGames.MobPubUnity/com.unity3d.player.UnityPlayerActivity t6869}}} delayed=false Callers=com.android.server.wm.DisplayContent.removeAppToken:1204 com.android.server.wm.ActivityRecord.removeWindowContainer:1298 com.android.server.wm.ActivityStack.removeActivityFromHistoryLocked:4927 com.android.server.wm.ActivityStack.removeHistoryRecordsForAppLocked:5346 
+03-27 16:19:03.820  1188  3126 D HwUidTcpMonitor: parseWlanUidTcpStatistics lastUidTcpStatInfo = [ mUid = 10375 mPacketName = com.NoxGames.MobPubUnity mSendSegs = 1325 mResendSegs = 10 mRcvSegs = 1769 ]
+03-27 16:19:06.399  1996  3405 I DownloadState: singleUid: 10375 [com.NoxGames.MobPubUnity] speed: 166 real speed: 165 (rxB:312 txB:520 rxP:6 txP:10) scroff: false
