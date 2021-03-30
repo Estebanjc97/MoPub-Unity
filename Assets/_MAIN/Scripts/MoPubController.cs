@@ -112,7 +112,7 @@ namespace MoPubApplication
         {
             if (uiManager)
                 uiManager.SetEventDebug(string.Format("Interstitial {0} shown", adUnitId), Color.white);
-            GameManager.Instance.ChangeState(0);
+            GameManager.Instance.ChangeState(1);
             MoPub.DestroyInterstitialAd(adUnitId);
         }
 
@@ -143,7 +143,7 @@ namespace MoPubApplication
             if (uiManager)
                 uiManager.SetEventDebug(string.Format("Interstitial {0} shown", adUnitId), Color.white);
            
-            GameManager.Instance.ChangeState(0);
+            GameManager.Instance.ChangeState(1);
         }
 
         private void RecibeReward(string adUnitId, string key, float value)
